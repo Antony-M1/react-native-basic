@@ -23,3 +23,16 @@
   </tr>
 </table>
 
+# Project Setup
+### Create Project
+```
+npx create-expo-app <PROJECT_NAME>
+
+cd <PROJECT_NAME>
+npx expo start
+```
+**Start Project in --tunnel**
+If you are facing any connection issue please use this command
+```
+npx expo start --tunnel
+```
