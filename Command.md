@@ -36,3 +36,6 @@ If you are facing any connection issue please use this command
 ```
 npx expo start --tunnel
 ```
+
+# Create Project in CLI
+* [Documentation](https://reactnative.dev/docs/environment-setup?guide=native&os=linux)
