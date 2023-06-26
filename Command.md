@@ -39,3 +39,6 @@ npx expo start --tunnel
 
 # Create Project in CLI
 * [Documentation](https://reactnative.dev/docs/environment-setup?guide=native&os=linux)
+```
+npx react-native@latest init <APP_NAME>
+```
