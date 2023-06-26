@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-# Project Setup
+# Project Setup - Expo
 ### Create Project
 ```
 npx create-expo-app <PROJECT_NAME>
