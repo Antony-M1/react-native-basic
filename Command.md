@@ -42,3 +42,8 @@ npx expo start --tunnel
 ```
 npx react-native@latest init <APP_NAME>
 ```
+
+# Run Android
+```
+npx react-native run-android
+```
