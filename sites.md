@@ -4,3 +4,6 @@
 * [ColorHunt](https://colorhunt.co/)
 * [material.io](https://m3.material.io/styles/icons/overview)
 * [color.adobe.com](https://color.adobe.com/create/color-wheel)
+
+# Icon Generator
+* [appicon](https://www.appicon.co/)
