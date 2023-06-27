@@ -6,4 +6,5 @@
 * [color.adobe.com](https://color.adobe.com/create/color-wheel)
 
 # Icon Generator
+Generate Icon with various size for the mobile app
 * [appicon](https://www.appicon.co/)
