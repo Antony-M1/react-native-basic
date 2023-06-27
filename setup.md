@@ -18,3 +18,6 @@ or
 ```
 export JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
 ```
+
+### Keep Android Emulator On Top
+* [How to keep android emulator always on top in ubuntu 14.04](https://stackoverflow.com/questions/37383611/how-to-keep-android-emulator-always-on-top-in-ubuntu-14-04)
