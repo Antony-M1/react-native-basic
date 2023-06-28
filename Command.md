@@ -47,3 +47,8 @@ npx react-native@latest init <APP_NAME>
 ```
 npx react-native run-android
 ```
+after the installation run in `metro`
+```
+npm start
+```
+````
