@@ -10,4 +10,4 @@ Generate Icon with various size for the mobile app
 * [appicon](https://www.appicon.co/)
 
 # API Dummy Data Provider
-*[reqres.in](https://reqres.in/)
+* [reqres.in](https://reqres.in/)
